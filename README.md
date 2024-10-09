@@ -1,5 +1,5 @@
 # 💫 About Me:
-CRUD based app on E-books <br>
+Currently building CRUD based app on E-books <br>
 
 
 ## 🌐 Socials:
